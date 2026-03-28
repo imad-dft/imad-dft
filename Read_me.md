@@ -16,11 +16,6 @@ I am an undergraduate Physics student at the **University of Science and Technol
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
----
-
-### 📊 Professional Stats
-![Imad's GitHub stats](https://github-readme-stats.vercel.app/api?username=imad-dft&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imad-dft&layout=compact&theme=radical)
 
 ---
 
